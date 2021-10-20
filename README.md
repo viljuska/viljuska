@@ -40,8 +40,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=viljuska&theme=neon-palenight&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viljuska&theme=neon-palenight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Currently working on
 - WordPress starter theme
 - Wordpress plugin boilerplate
