@@ -3,8 +3,8 @@
 
 ## About me
 
-In 2017, I started learning the basics of HTML, CSS and JS in a course at the IT Academy that lasted a year. After completing the course, I found a job as a Front end web developer. I still work in that position today. I mainly work on wordpress custom themes, integration with woocommerce, static sites. 
-Outside of work, I improve every day, research new technologies, currently study React, Gutenberg blocks.
+<p>In 2017, I started learning the basics of HTML, CSS and JS in a course at the IT Academy that lasted a year. After completing the course, I found a job as a Front end web developer. I still work in that position today. I mainly work on wordpress custom themes, integration with woocommerce, static sites.</p>
+<p>Outside of work, I improve every day, research new technologies, currently study React, Gutenberg blocks.</p>
 
 ## Technologies and frameworks that I use
 
@@ -40,3 +40,14 @@ Outside of work, I improve every day, research new technologies, currently study
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=viljuska&theme=neon-palenight&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viljuska&theme=neon-palenight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Currently working on
+- WordPress starter theme
+- Wordpress plugin boilerplate
+- Creating automate test tool with playwright
+- Learning React
+
+### I'm interested to learn
+- Laravel
+- C#
