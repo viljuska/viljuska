@@ -3,7 +3,7 @@
 
 ## About me
 
-<p>In 2017, I started learning the basics of HTML, CSS and JS in a course at the IT Academy that lasted a year. After completing the course, I found a job as a Front end web developer. I still work in that position today. I mainly work on wordpress custom themes, integration with woocommerce, static sites.</p>
+<p>In 2017, I started learning the basics of HTML, CSS and JS in a course at the IT Academy that lasted a year. After completing the course, I found a job as a Front end web developer. After some time while learning, I started doing little backend for WordPress. Now after 5 years, I work as a WordPress developer handling front and back end of the application. I mainly work on wordpress custom themes, integration with woocommerce, building custom plugins, creating email templates, static sites.</p>
 <p>Outside of work, I improve every day, research new technologies, currently study React, Gutenberg blocks.</p>
 
 ## Technologies and frameworks that I use
