@@ -45,6 +45,7 @@
 - Wordpress plugin boilerplate
 - Creating automate test tool with playwright
 - Learning React
+- Learning Python
 
 ### I'm interested to learn
 - Laravel
