@@ -3,8 +3,10 @@
 
 ## About me
 
-<p>In 2017, I started learning the basics of HTML, CSS and JS in a course at the IT Academy that lasted a year. After completing the course, I found a job as a Front end web developer. After some time while learning, I started doing little backend for WordPress. Now after 5 years, I work as a WordPress developer handling front and back end of the application. I mainly work on wordpress custom themes, integration with woocommerce, building custom plugins, creating email templates, static sites.</p>
-<p>Outside of work, I improve every day, research new technologies, currently study Gutenberg blocks, improving my skills in React, Node JS, MySQL and PostgreSQL.</p>
+<p>Full-stack WordPress developer with over 7 years of experience building scalable and high-performance web solutions. Specialized in custom theme and plugin development, WooCommerce integrations, and API-driven architectures. Passionate about writing clean, maintainable code and delivering user-focused digital experiences. Experienced in Agile/Scrum environments and cross-functional team collaboration.</p>
+
+<p>In 2017, I started learning the basics of HTML, CSS and JS in a course at the IT Academy that lasted a year. After completing the course, I found a job as a Front end web developer. After some time while learning, I started doing little backend for WordPress.</p>
+<p>Outside of work, I improve every day, research new technologies, currently study Gutenberg blocks, improving my skills in React, Node JS, Laravel</p>
 
 ## Technologies and frameworks that I use
 
@@ -43,13 +45,3 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=viljuska&theme=iceberg&locale=sr)](https://git.io/streak-stats)
 
-### Currently working on
-- WordPress starter theme
-- Wordpress plugin boilerplate
-- Creating automate test tool with playwright
-- Learning React
-- Learning Python
-
-### I'm interested to learn
-- Laravel
-- C#
